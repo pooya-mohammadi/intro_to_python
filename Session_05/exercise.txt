@@ -1,0 +1,12 @@
+exercise: person: attributes: first_name, last_name, age, education
+		  methods: 1. print full name and age
+		           2. add_middle_name and print full name
+	  employee: attribute: first_name, last_name, age, education, job_title, 
+			       salary, expenses, whole_income(salary - expenses),
+		    methods: 1. change_salary
+			     2. change_job
+			     3. add_middle_name
+		             4. print_full_info (print full name and job title)
+				
+			
+			   
