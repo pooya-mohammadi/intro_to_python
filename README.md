@@ -11,7 +11,7 @@ In this repository, I share codes of the introduction to python courses publishe
 |      02       |    [Variables & Auto-complete](https://github.com/faridehmoteeyan/intro_to_python/blob/master/02_variables_autocomplete.ipynb)|    1. How to assign a value to a variable<br>2. How to delete a variable<br>3. How to use Jupyter notebook's Auto-Complete
  |  | 
 |      03       |  [3-Standard Data Types_numeric types and str](https://github.com/faridehmoteeyan/intro_to_python/blob/master/03_data_types_strings.ipynb)|   numeric types:(   |  | 
-|      04       |    [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)|      |  | 
+|      04       |    [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)|      | <details><summary>     </summary></details> | 
 |      05       |    [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)|      |  | 
 |      06       |    [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)|      |  | 
 |              
