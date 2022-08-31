@@ -9,9 +9,12 @@ In this repository, I share codes of the introduction to python courses publishe
 |---------------|----------------------------------------------------------------|--------------------------------------------------------|------------------------|
 |      01       |    [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)|      | <p align="center"><a href="https://youtu.be/74xsoC8D7E4" target="_blank"><img src="https://img.youtu.be/74xsoC8D7E4?list=PL2g_5adpoaeLU_lA-6kIDZk2uiH-LOpal/0.jpg "  width="80" height="60" border="10" /></a></p> | 
 |      02       |    [Variables & Auto-complete](https://github.com/faridehmoteeyan/intro_to_python/blob/master/02_variables_autocomplete.ipynb)|    1. How to assign a value to a variable<br>2. How to delete a variable<br>3. How to use Jupyter notebook's Auto-Complete
- |  | 
-|      03       |  [3-Standard Data Types_numeric types and str](https://github.com/faridehmoteeyan/intro_to_python/blob/master/03_data_types_strings.ipynb)|   numeric types:(   |  | 
-|      04       |    [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)|      | <details><summary>     </summary></details> | 
+|      03       |  [3-Standard Data Types_numeric types and str](https://github.com/faridehmoteeyan/intro_to_python/blob/master/03_data_types_strings.ipynb)| <details>  <summary> numeric types:   </summary>  1. int 2. float    3. complex   4. bool</details> <details>  <summary> sequence types_ str:   </summary> 1. indexing        2. slicing        3. immutable        4. strip        5. split6. string formattingl</details>   |  | 
+
+
+
+
+|      04       |    [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)|      | <details><summary>    </summary></details> | 
 |      05       |    [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)|      |  | 
 |      06       |    [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)|      |  | 
 |              
@@ -30,18 +33,9 @@ In this repository, I share codes of the introduction to python courses publishe
 
 [3-Standard Data Types_numeric types and str](https://github.com/faridehmoteeyan/intro_to_python/blob/master/03_data_types_strings.ipynb)
 1. numeric types:
-    1. int
-    2. float
-    3. complex
-    4. bool
-2. sequence types:
-    1. str
-        1. indexing
-        2. slicing
-        3. immutable
-        4. strip
-        5. split
-        6. string formatting
+    1. int 2. float    3. complex   4. bool
+2. sequence types: str
+1. indexing        2. slicing        3. immutable        4. strip        5. split6. string formatting
         
 [4-Standard Data Types_list](https://github.com/faridehmoteeyan/intro_to_python/blob/master/04_data_types_lists.ipynb)
 1. numeric types:
