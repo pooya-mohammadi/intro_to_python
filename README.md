@@ -5,26 +5,26 @@ In this repository, I share codes of the introduction to python courses publishe
 
 # Available contents:
 
-| Lesson Number |                             Topic                              |                  Learning Objectives                   |     youtube video      |
-|---------------|----------------------------------------------------------------|--------------------------------------------------------|------------------------|
-|      01       |    [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)|      | <p align="center"><a href="https://youtu.be/74xsoC8D7E4" target="_blank"><img src="https://img.youtu.be/74xsoC8D7E4?list=PL2g_5adpoaeLU_lA-6kIDZk2uiH-LOpal/0.jpg "  width="80" height="60" border="10" /></a></p> | 
-|      02       |    [Variables & Auto-complete](https://github.com/faridehmoteeyan/intro_to_python/blob/master/02_variables_autocomplete.ipynb)|    1. How to assign a value to a variable<br>2. How to delete a variable<br>3. How to use Jupyter notebook's Auto-Complete
-|      03       |  [3-Standard Data Types_numeric types and str](https://github.com/faridehmoteeyan/intro_to_python/blob/master/03_data_types_strings.ipynb)| <details>  <summary> numeric types:   </summary>  1. int 2. float    3. complex   4. bool</details> <details>  <summary> sequence types_ str:   </summary> 1. indexing        2. slicing        3. immutable        4. strip        5. split6. string formattingl</details>   |  | 
-
-
-
-
-|      04       |    [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)|      | <details><summary>    </summary></details> | 
-|      05       |    [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)|      |  | 
-|      06       |    [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)|      |  | 
-|              
-|
-|
-|
-|
-|
-
-
+| Lesson Number | Topic                                                                                                                                     |                  Learning Objectives                   |     youtube video      |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------------------------|
+| 01            | [introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb) |      | <p align="center"><a href="https://youtu.be/74xsoC8D7E4" target="_blank"><img src="https://img.youtu.be/74xsoC8D7E4?list=PL2g_5adpoaeLU_lA-6kIDZk2uiH-LOpal/0.jpg "  width="80" height="60" border="10" /></a></p> | 
+| 02            | [Variables & Auto complete](https://github.com/faridehmoteeyan/intro_to_python/blob/master/02_variables_autocomplete.ipynb)               |    1. How to assign a value to a variable<br>2. How to delete a variable<br>3. How to use Jupyter notebook's Auto-Complete
+| 03            | [Standard Data Types numeric  & str](https://github.com/faridehmoteeyan/intro_to_python/blob/master/03_data_types_strings.ipynb)          | <details>  <summary> numeric types:   </summary>  1. int 2. float    3. complex   4. bool</details> <details>  <summary> sequence types_ str:   </summary> 1. indexing        2. slicing        3. immutable        4. strip        5. split6. string formattingl</details>   |  |
+| 04            | [Standard Data Types lists](https://github.com/pooya-mohammadi/intro_to_python/blob/master/04_data_types_lists.ipynb)                     |      | <details><summary>    </summary></details> | 
+| 05            | [Basic operators](https://github.com/pooya-mohammadi/intro_to_python/blob/master/05_basic_operators.ipynb)                                |      |  | 
+| 06            | [If statement](https://github.com/pooya-mohammadi/intro_to_python/blob/master/06_if_statement.ipynb)                                      |      |  | 
+| 07            | [Loops](https://github.com/pooya-mohammadi/intro_to_python/blob/master/07_loops.ipynb)                                                    |      |  |              
+| 08            | [Loops if else exercises](https://github.com/pooya-mohammadi/intro_to_python/blob/master/08_loops_if_else_exercises.ipynb)                |      |  | 
+| 09            | [Data types tuple](https://github.com/pooya-mohammadi/intro_to_python/blob/master/09_data_types_tuple.ipynb)                              |      |  | 
+| 10            | [Data types sets](https://github.com/pooya-mohammadi/intro_to_python/blob/master/10_data_types_sets.ipynb)                                |      |  | 
+| 11            | [data types dictionaries](https://github.com/pooya-mohammadi/intro_to_python/blob/master/11_data_types_dictionaries.ipynb<br/>)           |      |  | 
+| 12            | [data type conversion](https://github.com/pooya-mohammadi/intro_to_python/blob/master/12_data_type_conversion.ipynb)                      |      |  | 
+| 13            | [loops part 02](https://github.com/pooya-mohammadi/intro_to_python/blob/master/13_loops_part_02.ipynb)                                    |      |  | 
+| 14            | [dictionary loops exercises](https://github.com/pooya-mohammadi/intro_to_python/blob/master/14_dictionary_loops_exercises.ipynb)          |      |  | 
+| 15            | [file handeling](https://github.com/pooya-mohammadi/intro_to_python/blob/master/15_file_handeling.ipynb)                                  |      |  | 
+| 16            | [try except](https://github.com/pooya-mohammadi/intro_to_python/blob/master/16_try_except.ipynb)                                          |      |  | 
+| 17            | [comprehension single if ](https://github.com/pooya-mohammadi/intro_to_python/blob/master/comprehension_single_if.ipynb)         |      |  | 
+| 18            | [functions ](https://github.com/pooya-mohammadi/intro_to_python/blob/master/functions.ipynb)         |      |  |
 [1-introduction to jupyter notebook](https://github.com/faridehmoteeyan/intro_to_python/blob/master/01_jupyter_notebook_introduction.ipynb)
 [2-Variables & Auto-complete](https://github.com/faridehmoteeyan/intro_to_python/blob/master/02_variables_autocomplete.ipynb)
 1. How to assign a value to a variable
