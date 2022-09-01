@@ -1,9 +1,9 @@
 
-# intro_to_python
+# intro to python 
 
 In this repository, I share codes of the introduction to python courses published on my YouTube channel
 
-# Available contents:
+# Available contents english:
 
 | Lesson Number | Topic                                                                                                                                     |                  Learning Objectives                   |     youtube video      |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------------------------|
