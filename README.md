@@ -47,10 +47,10 @@ I would appreciate it if you could support the active development of this repo b
 Thanks so much for your interest in growing the reach of the repo!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Contact
+## 🤝 Contact
 You contact from following ways:
-- LinkedIn www.linkedin.com/in/pooya-mohammadi
-- Email: pooyamohammadikazaj@gmail.com
+- 🍀LinkedIn www.linkedin.com/in/pooya-mohammadi
+- 🍀Email: pooyamohammadikazaj@gmail.com
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## ⚠️ License
