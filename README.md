@@ -48,7 +48,7 @@ I would appreciate it if you could support the active development of this repo b
 - Following my profile [https://youtube.com/PooyaMohammadiKazaj](https://youtube.com/PooyaMohammadiKazaj) on YouTube
 - Following my profile [https://www.linkedin.com/in/pooya-mohammadi](https://www.linkedin.com/in/pooya-mohammadi/) on LinkedIn
 
-Thanks so much for your interest in growing the reach of the repo!
+Thank you so much for your interest in growing the reach of the repo!
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## 🤝 Contact
